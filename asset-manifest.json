@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f6d49cd.css",
+    "main.js": "/static/js/main.7afab02b.js",
+    "static/media/React.png": "/static/media/React.f153eb9f28437192c6a0.png",
+    "static/media/python-logo-tp.png": "/static/media/python-logo-tp.6b5f4592aa7a14f650c2.png",
+    "static/media/ghub.png": "/static/media/ghub.1cd13316600320d4c762.png",
+    "static/media/word-search.png": "/static/media/word-search.ab9350b4ec0d74a38afa.png",
+    "static/media/mongo-logo-tp.png": "/static/media/mongo-logo-tp.9512fec229922fcd4f8c.png",
+    "static/media/nodejs-logo-tp.png": "/static/media/nodejs-logo-tp.86ce46930b5d1e1e0df4.png",
+    "static/media/html-css-js.png": "/static/media/html-css-js.aab59987a376edab2034.png",
+    "static/media/black-dark-3d-low-poly-geometric-background.jpg": "/static/media/black-dark-3d-low-poly-geometric-background.585b4f5709a2ffc0ea1e.jpg",
+    "index.html": "/index.html",
+    "main.1f6d49cd.css.map": "/static/css/main.1f6d49cd.css.map",
+    "main.7afab02b.js.map": "/static/js/main.7afab02b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f6d49cd.css",
+    "static/js/main.7afab02b.js"
+  ]
+}
